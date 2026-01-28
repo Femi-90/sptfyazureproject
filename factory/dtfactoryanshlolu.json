@@ -1,0 +1,9 @@
+{
+	"name": "dtfactoryanshlolu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79eaa7e1-e250-4736-8e04-14fee81de05b",
+		"tenantId": "a1aa1fff-b305-4e19-a193-3c6b7990a5ae"
+	}
+}
